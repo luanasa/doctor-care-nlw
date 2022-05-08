@@ -1,2 +1,8 @@
-# doctor-care-nlw
-nlw learning event project
+#                                    Doctor Care
+
+Responsive landing page application developed during NLW Event. 
+
+☁️ 
+https://luanasa.github.io/doctor-care-nlw/
+
+image.png
